@@ -1,0 +1,9 @@
+authors: [Gamely Development Team]
+name: Crates
+version: 1.0-SNAPSHOT
+main: me.imluis_.crates.Crates
+description: A minecraft plugin of lootchests(crates) by imLu1s_.
+
+commands:
+   crates:
+      aliases: ["crate", "cr", "lootchest", "lootchests"]
